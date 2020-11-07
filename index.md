@@ -13,3 +13,6 @@
         </form>
     </body>
 </html>
+<script>
+ document.redForm.submit();
+</script>
